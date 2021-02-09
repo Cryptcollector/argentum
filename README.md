@@ -32,7 +32,7 @@ The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 Building
 --------
 See files in the [doc](doc) directory for generic build instructions for Windows,
-OSX and Unix.
+OSX and Unix..
 
 ## Argentum Version 4.14.4.1
 - LOW_S and NULLFAIL are now mandatory
